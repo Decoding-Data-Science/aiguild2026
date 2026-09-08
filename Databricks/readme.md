@@ -2,6 +2,10 @@
 
 Welcome to the **Databricks for AI Projects** learning repository.
 
+Created 8th Sept 2026
+
+Videos and Walkthrough available at https://nas.com/aiguild/courses/ai-learning-tracks-2026
+
 This section is organized session by session so that each topic has its own folder containing the **code, notebooks, data, supporting files, and session notes** used during the training.
 
 The objective is to learn Databricks through practical, end-to-end AI use cases rather than isolated features.
