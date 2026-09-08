@@ -3,7 +3,9 @@
 ## Goal
 
 Build a practical **Retrieval-Augmented Generation (RAG)** application using documents, embeddings, vector search, and a large language model in Databricks.
+Created 8th Sept 2026
 
+Videos and Walkthrough available at https://nas.com/aiguild/courses/ai-learning-tracks-2026
 ---
 
 ## What We Cover
